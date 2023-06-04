@@ -1,6 +1,8 @@
 # CV website
 ## Popis
-Tento projekt je součásti semetrální práce z předmětu Vývoj klientských aplikací v Javascriptu v letním semestru 22/23.
+Tento projekt je součásti semetrální práce z předmětu Vývoj klientských aplikací v Javascriptu v letním semestru 22/23. 
+
+[Odkaz na web](https://kate-gulina-cv.tode.cz)
 
 ### Původní zadání
 Hlavním cílem mé SP je zachytit a sepsat veškeré (nejen) školní projekty, které jsem dělala (včetně získaných znalostí a dovedností) a které většinou nevejdou ve standardní životopis, v podobě hezkých designérských stránek s interaktivními elementy.  Při vyplnění své práce se budu orientovat na následující stránky (které považuji za velmi inspirativní):
@@ -22,3 +24,10 @@ Stránky (spíš bude jenom jedna) mé SP budou obsahovat mimo jiné i formulá�
 - web je rozdělen do 6 sekcí: hlavní, pracovní zkušeností a odkazy na linkedin a github, seznam projektů, kontaktní formulář, mapa a footer s odkazem na 1. sekci
 - každá sekce má alespoň jeden vlastní interaktivní element
 - úplně na začátku web jsou odkazy na další sekce
+- práce je napsaána primárně v jazycích HTML, CSS a JS za použitím jQuery a Bootstrapu
+
+## Struktura repozitáře
+- složka **resources** obsahuje ikonky a zvuk
+- soubor **index.html** je hlavní (a jedinou) stránkou webu
+- soubor **script.js** obsahuje veškeré potřebné skripty. Jelikož jsem ve své práci nepotřebovala třídy a nejaký složitý, dlouhý a souvislý JS kód, vyřešila jsem všechno napsat do jedného souboru
+- soubor **styles.css** obsahuje styl stránky
