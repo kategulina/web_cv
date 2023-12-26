@@ -2,6 +2,9 @@
 ## Popis
 Tento projekt je součásti semetrální práce z předmětu Vývoj klientských aplikací v Javascriptu v letním semestru 22/23. 
 
+## UPD.
+Web is now not available because I'm looking for a better web hosting
+
 [Odkaz na web](https://kate-gulina-cv.tode.cz)
 
 ### Původní zadání
